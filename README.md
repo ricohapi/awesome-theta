@@ -43,6 +43,7 @@ A curated list of awesome things related to [RICOH THETA](https://theta360.com)
 
 ## Communities
 
+- [THETA Developer Community](https://thetadeveloper.slack.com/join/shared_invite/enQtNzcxODI2MTk2ODg0LWY5YmU2ZTIxNGYwNzlmNWZjMWMyMWFlMzY3ZmQ3NGU3ZjZiZjI0Njk4MGIxMDU5NDJiMzQ4Y2FkNDEzYmFlNGU#/shared-invite/email) - Official developer community on Slack (Japanese)
 - [theta360.guide](https://theta360.guide) - The RICOH THETA developer and power user community
 - [RICOH THETAプラグイン開発者コミュニティ - Qiita](https://qiita.com/organizations/theta-plugin) - The plugin developer community (Japanese)
 - [theta-skunkworks](https://github.com/theta-skunkworks) - The THETA SKUNKWORKS TEAM based on the RICOH developer community
