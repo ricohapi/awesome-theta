@@ -31,6 +31,8 @@ A curated list of awesome things related to [RICOH THETA](https://theta360.com)
 
 ### Mobile
 
+- [theta-client](https://github.com/ricohapi/theta-client) - Client library wrapped Web API v2.1 to control THETA
+- [fake-theta](https://github.com/ricohapi/fake-theta) - THETA Web API response simulator
 - [theta-api2.1-ios-sdk](https://github.com/ricohapi/theta-api2.1-ios-sdk) - A sample application project using Web API v2.1 for iOS
 - [theta-api2.1-android-sdk](https://github.com/ricohapi/theta-api2.1-android-sdk) - A sample application project using Web API v2.1 for Android
 
