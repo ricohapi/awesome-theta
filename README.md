@@ -40,9 +40,6 @@ A curated list of awesome things related to [RICOH THETA](https://theta360.com)
 
 - [libuvc-theta](https://github.com/ricohapi/libuvc-theta) - [libuvc](https://github.com/libuvc/libuvc) adding support for UVC1.5/H.264
 - [libuvc-theta-sample](https://github.com/ricohapi/libuvc-theta-sample) - Samples for [libuvc-theta](https://github.com/ricohapi/libuvc-theta)
-- [gstthetauvc](https://github.com/nickel110/gstthetauvc) \*1 - GStreamer THETA UVC plugin
-- [libptp2](https://github.com/nickel110/libptp2) \*1 - [libptp](https://libptp.sourceforge.net) has been modified and is compatible with the THETA USB API as well  
-\*1 : Outside the official scope of RICOH, and also not maintained by RICOH. 
 
 ## Communities
 
