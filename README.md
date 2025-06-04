@@ -9,13 +9,6 @@ A curated list of awesome things related to [RICOH THETA](https://www.ricoh360.c
 > [!NOTE]  
 > If you have any questions or suggestions, please visit [Discussions](https://github.com/ricohapi/awesome-theta/discussions?discussions_q=) and create a new discussion thread.
 
-## Contents
-
-- [Documentation](#documentation)
-- [SDK and Libraries](#sdk-and-libraries)
-- [Communities](#communities)
-- [Contributions](#contributions)
-
 ## :camera: THETA Hardware
 
 - [RICOH THETA](https://www.ricoh360.com/theta/)
@@ -23,7 +16,7 @@ A curated list of awesome things related to [RICOH THETA](https://www.ricoh360.c
 
 ## :link: THETA API
 
-- [docs.ricoh360.com](https://docs.ricoh360.com/)
+- [RICOH360 Docs for Developers](https://docs.ricoh360.com/)
 - [theta-api-specs](https://github.com/ricohapi/theta-api-specs) - RICOH THETA API specifications
 
 ## :iphone: THETA Mobile SDK and Library
